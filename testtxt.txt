@@ -1,0 +1,3 @@
+This is Dariusz testing his commits to the Attesa Project
+
+Good this is working, now i know that my commits will operate normally.
